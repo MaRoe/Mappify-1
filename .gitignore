@@ -5,3 +5,5 @@ dist
 .sass-cache
 .project
 app/bower_components
+.idea
+node
